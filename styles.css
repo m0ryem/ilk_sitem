@@ -6,7 +6,7 @@ body{
 .kart{
     display: flex;
     flex-direction: column;
-    border: 10px solid red;
+    border: 10px solid aqua;
     padding: 10px;
     justify-content: center;
     border-radius: 10px;
